@@ -1,0 +1,15 @@
+C:\Users\Elias\source\repos\CMS\Business\bin\Debug\net9.0\Business.deps.json
+C:\Users\Elias\source\repos\CMS\Business\bin\Debug\net9.0\Business.dll
+C:\Users\Elias\source\repos\CMS\Business\bin\Debug\net9.0\Business.pdb
+C:\Users\Elias\source\repos\CMS\Business\bin\Debug\net9.0\Data.dll
+C:\Users\Elias\source\repos\CMS\Business\bin\Debug\net9.0\Data.pdb
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\Business.dll
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\refint\Business.dll
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\Business.pdb
+C:\Users\Elias\source\repos\CMS\Business\obj\Debug\net9.0\ref\Business.dll
